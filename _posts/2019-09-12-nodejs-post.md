@@ -1,6 +1,6 @@
 ---
 title: "Nodejs 시작"
-date: 2019-09-12 20:03:28 -0400
+date: 2019-09-15 20:03:28 -0400
 categories: Nodejs
 ---
 오늘은 NodeJS로 Hello world! 출력을 목표로 시작해보자.
@@ -9,8 +9,7 @@ categories: Nodejs
 
 Atom에서 hello.js 파일을 생성하고 아래와 같은 코드를 입력해주고
 
-<pre><code>
-var http = require('http');
+<pre><code>var http = require('http');
 
 http.createServer(function (req, res) {
   res.writeHead(200, {'Content-Type': 'text/html'});
