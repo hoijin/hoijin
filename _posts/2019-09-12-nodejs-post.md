@@ -2,6 +2,7 @@
 title: "Nodejs 시작"
 date: 2019-09-15 20:03:28 -0400
 categories: Nodejs
+link: https://www.w3schools.com
 ---
 오늘은 NodeJS로 Hello world! 출력을 목표로 시작해보자.
 
@@ -53,7 +54,7 @@ Http 모듈은 위에서 설명한 빌트인 모듈이다.
 한 건 없지만 오늘은 여기까지...!
 
 
-출처 : https://www.w3schools.com
+출처 : [https://www.w3schools.com](#) 
 
 
 
