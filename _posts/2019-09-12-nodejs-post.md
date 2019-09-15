@@ -22,10 +22,14 @@ http.createServer(function (req, res) {
 
 명령 프롬프트에 node hello.js를 입력해서 로컬 서버를 구동 시키고
 
+![nodejs2-1](https://user-images.githubusercontent.com/54823294/64923543-a83d1900-d815-11e9-80fb-b825ebeb0f63.PNG)
+
 웹 페이지에 localhost:8000 을 입력해주면 끝!
 
+![nodejs2-2](https://user-images.githubusercontent.com/54823294/64923546-ac693680-d815-11e9-93e0-cd916e32853a.PNG)
 
-+ 추가 
+
++) 추가 
 
 공부 목적인 만큼 위 코드를 왜 사용하고 Nodejs는 무엇인지에 대해 알아봐야겠다.
 
